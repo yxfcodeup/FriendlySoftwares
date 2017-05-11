@@ -16,7 +16,7 @@
 * Windows更新清理工具: 
 * Ccleaner: 多功能清理工具。Link: [https://www.piriform.com/](https://www.piriform.com/) 破解： [https://jingyan.baidu.com/article/d7130635c2e56e13fdf475fd.html](https://jingyan.baidu.com/article/d7130635c2e56e13fdf475fd.html)
 * Registry Crawler: 注册表清理工具。
-* 
+* 硕鼠： Link:[http://www.flvcd.com/](http://www.flvcd.com/)
 
 
 ## Chrome Plugins
@@ -30,4 +30,9 @@
 * Search by Image
 * Tab Snooze
 * Tampermonkey
-* 
+
+
+## 下载方法
+### Youtube视频下载  
+1. 使用[http://www.clipconverter.cc/](http://www.clipconverter.cc/),YouTube的播放地址复制进去就能下载  
+2. 给chrome安装tampermonkey（油猴） 扩展插件，安装 Download YouTube Videos as MP4 到 tampermonkey（油猴），youtube播放视频时左下角就会出现 Download，点开就能下载了  
