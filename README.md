@@ -36,3 +36,8 @@
 ### Youtube视频下载  
 1. 使用[http://www.clipconverter.cc/](http://www.clipconverter.cc/),YouTube的播放地址复制进去就能下载  
 2. 给chrome安装tampermonkey（油猴） 扩展插件，安装 Download YouTube Videos as MP4 到 tampermonkey（油猴），youtube播放视频时左下角就会出现 Download，点开就能下载了  
+
+
+## 各种网站  
+* 视频下载链接转换1：[http://en.savefrom.net/](http://en.savefrom.net/)
+* 视频下载链接转换2：[http://www.clipconverter.cc/](http://www.clipconverter.cc/)
